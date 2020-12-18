@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TTS</string>
+    <string name="text">Press the button for speech recognition</string>
+    <string name="text2">OR Enter Text below</string>
+</resources>
